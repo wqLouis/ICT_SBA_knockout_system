@@ -1,0 +1,20 @@
+Help
+- Start -
+Once you have imputted / imported the participants' data
+you can click the start button in the main window so it
+generates the competition chart automatically
+- Input -
+Input participants' name, school, and if he/she is a seed
+player. This page also consist a export button which it 
+can export .xlsx file which consists all participants'
+data
+- Import -
+Import .xlsx files which consists all participants' data.
+Generates template with template button.
+- Others -
+Participants from the same school will be separated where
+possible.
+Seed players will be separated where possible.
+If the number of the participants is not a power of 2,
+'bye's are used to move certain participants to the next
+round automatically.
