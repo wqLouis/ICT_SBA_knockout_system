@@ -24,7 +24,7 @@ A Qt-based tournament management application for generating knockout brackets fr
 ## Dependencies
 
 - Qt 5 or later
-- QXlsx library (included in repository)
+- QXlsx library
 
 ## Build Instructions
 
